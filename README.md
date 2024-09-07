@@ -13,7 +13,7 @@ This is a personal portfolio website built using **HTML, CSS, and JavaScript**. 
 
 ## Live Demo
 
-You can check out the live version of the website here: [Live Demo Link](https://yourgithubusername.github.io/portfolio-website)
+You can check out the live version of the website here: [Live Demo Link]( https://ayushi0627.github.io/ayushi-s-Portfolio/)
 
 ## Features
 - Responsive design, optimized for both desktop and mobile.
